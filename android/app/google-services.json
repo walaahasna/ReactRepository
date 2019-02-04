@@ -1,0 +1,279 @@
+{
+  "project_info": {
+    "project_number": "923402374759",
+    "firebase_url": "https://wasel-b66d9.firebaseio.com",
+    "project_id": "wasel-b66d9",
+    "storage_bucket": "wasel-b66d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923402374759:android:41ae824b18c3a325",
+        "android_client_info": {
+          "package_name": "biz.wasel.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923402374759-gotvg70f4ur9ptu5usgv8ojsmn5gmctm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.wasel.driver",
+            "certificate_hash": "77afa9488234ca3cc0858c42f58424f9d76145b4"
+          }
+        },
+        {
+          "client_id": "923402374759-te3ppac7hoo9scp3ld4d3adl93v9d0ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANjx-Ij76N6F44Y6x0K3dSxFBVdrtUtgs"
+        },
+        {
+          "current_key": "AIzaSyB-yI0kgW8fMMKfHW-bBxGsaNKOY6bvnfA"
+        },
+        {
+          "current_key": "AIzaSyA86BAp5_hj9lDRBbXOC8uTMnXqIYoHy98"
+        },
+        {
+          "current_key": "AIzaSyBXrPtcgVAAtJS8DMS7seMHs0jf0L5pfEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923402374759-0sctqb7ni0dfun449m0smtop7d8d61sv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "923402374759-18qgrfm4h0m5djiqhq9k79tjf2beg1gg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "biz.wasel.user-ios"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923402374759:android:b2eddc00a2e8a2ed",
+        "android_client_info": {
+          "package_name": "biz.wasel.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923402374759-te3ppac7hoo9scp3ld4d3adl93v9d0ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANjx-Ij76N6F44Y6x0K3dSxFBVdrtUtgs"
+        },
+        {
+          "current_key": "AIzaSyB-yI0kgW8fMMKfHW-bBxGsaNKOY6bvnfA"
+        },
+        {
+          "current_key": "AIzaSyA86BAp5_hj9lDRBbXOC8uTMnXqIYoHy98"
+        },
+        {
+          "current_key": "AIzaSyBXrPtcgVAAtJS8DMS7seMHs0jf0L5pfEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923402374759:android:4fb4bc368a2247b2",
+        "android_client_info": {
+          "package_name": "biz.wasel.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923402374759-i4no94042o54rgekng5h7fbh53j4f263.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.wasel.user",
+            "certificate_hash": "57ef5257e71ec81aaf1ab056902fa2234e1fd5f5"
+          }
+        },
+        {
+          "client_id": "923402374759-i7an50dknhm9c2m6pgbgoj52s7ecsgij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "biz.wasel.user",
+            "certificate_hash": "a736d88faaf565cbdf2cf2320cc02b9b0f415248"
+          }
+        },
+        {
+          "client_id": "923402374759-te3ppac7hoo9scp3ld4d3adl93v9d0ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANjx-Ij76N6F44Y6x0K3dSxFBVdrtUtgs"
+        },
+        {
+          "current_key": "AIzaSyB-yI0kgW8fMMKfHW-bBxGsaNKOY6bvnfA"
+        },
+        {
+          "current_key": "AIzaSyA86BAp5_hj9lDRBbXOC8uTMnXqIYoHy98"
+        },
+        {
+          "current_key": "AIzaSyBXrPtcgVAAtJS8DMS7seMHs0jf0L5pfEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923402374759-0sctqb7ni0dfun449m0smtop7d8d61sv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "923402374759-18qgrfm4h0m5djiqhq9k79tjf2beg1gg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "biz.wasel.user-ios"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923402374759:android:eecb7fff7b7a8b1f",
+        "android_client_info": {
+          "package_name": "com.app.exa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923402374759-te3ppac7hoo9scp3ld4d3adl93v9d0ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANjx-Ij76N6F44Y6x0K3dSxFBVdrtUtgs"
+        },
+        {
+          "current_key": "AIzaSyB-yI0kgW8fMMKfHW-bBxGsaNKOY6bvnfA"
+        },
+        {
+          "current_key": "AIzaSyA86BAp5_hj9lDRBbXOC8uTMnXqIYoHy98"
+        },
+        {
+          "current_key": "AIzaSyBXrPtcgVAAtJS8DMS7seMHs0jf0L5pfEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923402374759:android:6af141cc62cba038",
+        "android_client_info": {
+          "package_name": "com.waselreactproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923402374759-j4r7l338ang4on4ttn9qo62bp68186el.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waselreactproject",
+            "certificate_hash": "a736d88faaf565cbdf2cf2320cc02b9b0f415248"
+          }
+        },
+        {
+          "client_id": "923402374759-te3ppac7hoo9scp3ld4d3adl93v9d0ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANjx-Ij76N6F44Y6x0K3dSxFBVdrtUtgs"
+        },
+        {
+          "current_key": "AIzaSyB-yI0kgW8fMMKfHW-bBxGsaNKOY6bvnfA"
+        },
+        {
+          "current_key": "AIzaSyA86BAp5_hj9lDRBbXOC8uTMnXqIYoHy98"
+        },
+        {
+          "current_key": "AIzaSyBXrPtcgVAAtJS8DMS7seMHs0jf0L5pfEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923402374759-0sctqb7ni0dfun449m0smtop7d8d61sv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "923402374759-18qgrfm4h0m5djiqhq9k79tjf2beg1gg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "biz.wasel.user-ios"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
